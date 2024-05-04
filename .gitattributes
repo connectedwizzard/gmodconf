@@ -3,6 +3,8 @@
 
 # filetypes
 *.cfg linguist-language=c
+**/*.cfg linguist-language=c
+**/**/*.cfg linguist-language=c
 **/*.cfg linguist-detectable=true
 
 # Do not export
