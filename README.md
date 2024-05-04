@@ -1,2 +1,2 @@
 # gmodconf
-tiny garry's mod config
+a tiny garry's mod config
