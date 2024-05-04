@@ -1,0 +1,10 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# These filetypes should be recognized as CFG, not ReScript
+*.res linguist-language=cfg
+**/*.res linguist-detectable=true
+
+# Do not export these files on download
+.gitattributes export-ignore
+.gitignore export-ignore
