@@ -2,7 +2,7 @@
 * text=auto
 
 # These filetypes should be recognized as CFG, not ReScript
-*.res linguist-language=cfg
+*.res linguist-language=c
 **/*.res linguist-detectable=true
 
 # Do not export these files on download
