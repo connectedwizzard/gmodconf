@@ -13,4 +13,4 @@ LICENSE export-ignore
 README.md export-ignore
 
 # Ignore the .files folder
-/.files/
+/.files/ export-ignore
